@@ -4,7 +4,7 @@
 
 # Repositorio Curso Reconocimiento de Patrones - IUPB
 
-En este repo se alojan los códigos y material de clase que se utilizarán para el curso de aprendizaje de máquinas. Los códigos contenidos en este repositorio son complementarios al sitio web del curso que pueden encontrar en el siguiente [link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/presentaci%C3%B3n?authuser=0)
+En este repo se alojan los códigos y material de clase que se utilizarán para el curso de reconocimiento de patrones. Los códigos contenidos en este repositorio son complementarios al sitio web del curso que pueden encontrar en el siguiente [link](https://sites.google.com/pascualbravo.edu.co/reconocimieto-de-patrones-pres/presentaci%C3%B3n?pli=1&authuser=0)
 
 
 ### 🗣️ Contacto: Ruben D. Fonnegra
